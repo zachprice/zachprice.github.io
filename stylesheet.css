@@ -2,7 +2,7 @@ div {
   width: 50%;
   transform: translate(-50%, -50%);
   position: absolute;
-  top: 50%;
+  top: 40%;
   left: 50%;
   padding: 20px;
   resize: both;
@@ -11,8 +11,8 @@ div {
 h1 {
     font-family: "Impact";
     font-size: 24pt;
-    color: #778899;
+    color: #00CCCC;
 }   
 body{
-    background-color: #FFFFFF;
+    background-color: #000000;
 }
