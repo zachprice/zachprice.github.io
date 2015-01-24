@@ -9,10 +9,14 @@ div {
   overflow: auto;
 }
 h1 {
-    font-family: "Open Sans";
-    font-size: 24pt;
-    color: #00CCCC;
-}   
+  font-family: "Open Sans";
+  font-size: 45px;
+  color: #000000;
+} 
+h4{
+  font-family: "Open Sans";
+  font-size: 15px;
+}
 body{
-    background-color: #000000;
+    background-color: #3498db;
 }
