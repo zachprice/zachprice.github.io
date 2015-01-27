@@ -8,18 +8,22 @@ div {
   resize: both;
   overflow: auto;
 }
+a {
+  text-decoration: none;
+}
 h1 {
   font-family: "Open Sans";
   font-weight: lighter;
-  font-size: 30pt;
+  font-size: 40pt;
   color: #FFFFFF;
 }   
 
 h2 { 
   font-family:"Open Sans"; 
   font-weight: lighter;
-  font-size:18px; 
-  color:gray; 
+  font-size: 20px; 
+  color: #000000;
+  text-decoration: none; 
 }
 body{
     background-color: #3498db;
